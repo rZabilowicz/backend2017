@@ -14,8 +14,8 @@ WARNING: All illegal access operations will be denied in a future release
 uruchomienie poprzez wiersz poleceń i Maven również nie przynosiły efektów:
 Error: Unable to access jarfile target/gs-spring-boot-0.1.0.jar
 
-Aplikacja powinna otwierać się poprzez wpisanie adresu url w przeglądarce na http://localhost:8080/ 
-(http://localhost:8080/cars http://localhost:8080/clients).
+Aplikacja powinna otwierać się poprzez wpisanie adresu url http://localhost:8080/ 
+(http://localhost:8080/cars http://localhost:8080/clients) w przeglądarce na komputerze lokalnych. 
 
 Po odwarzaniu powyższych adresów w przeglądarkach:
 
