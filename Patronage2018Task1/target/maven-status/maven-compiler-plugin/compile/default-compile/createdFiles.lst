@@ -1,0 +1,9 @@
+com\github\rzabilowicz\Patronage2018Task1\App\Database.class
+com\github\rzabilowicz\Patronage2018Task1\Cars\Car$CarRegister.class
+com\github\rzabilowicz\Patronage2018Task1\Cars\Car.class
+com\github\rzabilowicz\Patronage2018Task1\Client\Client$newClient.class
+com\github\rzabilowicz\Patronage2018Task1\Cars\CarController.class
+com\github\rzabilowicz\Patronage2018Task1\Client\Client.class
+com\github\rzabilowicz\Patronage2018Task1\App\ExampleData.class
+com\github\rzabilowicz\Patronage2018Task1\Client\ClientController.class
+com\github\rzabilowicz\Patronage2018Task1\App\Patronage2018Task1Application.class
